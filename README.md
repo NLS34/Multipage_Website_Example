@@ -6,7 +6,7 @@ index.html
 For lightbox that will be in the services page:
 !<!--
 
-Copyright (c) YEAR - NATHAN SCHEINBERG - https://codepen.io/gschier/pen/HCoqh
+Copyright (c) 2021 - Gregory Schier - https://codepen.io/gschier/pen/HCoqh
 
 Permission is hereby granted, free of charge, to any person 
 obtaining a copy of this software and associated documentation 
