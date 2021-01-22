@@ -3,6 +3,7 @@
 # Multipage_Website_Example
 index.html
 
+For lightbox that will be in the services page:
 <!--
 
 Copyright (c) YEAR - NATHAN SCHEINBERG - https://codepen.io/gschier/pen/HCoqh
