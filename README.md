@@ -4,7 +4,7 @@
 index.html
 
 For lightbox that will be in the services page:
-<!--
+!<!--
 
 Copyright (c) YEAR - NATHAN SCHEINBERG - https://codepen.io/gschier/pen/HCoqh
 
@@ -28,4 +28,4 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
 DEALINGS IN THE SOFTWARE.
 
--->
+-->!
